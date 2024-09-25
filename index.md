@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository
 ```
+- [x] Get a win in Fortnite today
+- [ ] Outline my portfolio
+- [ ] Submit resume
